@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Contains functions to create and update a special matrix which caches its inverse.
 
 ## usage: makeCacheMatrix(a_matrix)
 ##
